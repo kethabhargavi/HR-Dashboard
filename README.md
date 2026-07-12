@@ -220,7 +220,7 @@ Potential improvements include:
 # 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Screenshots/HR Analytical Dashboard.png" alt="HR Analytics Dashboard" width="1000">
+  <img src="HR Analytical Dashboard.png" alt="HR Analytics Dashboard" width="1000">
 </p>
 
 ---
