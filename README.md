@@ -217,9 +217,11 @@ Potential improvements include:
 
 ---
 
-# Dashboard Preview
+# 📊 Dashboard Preview
 
-(Add your dashboard screenshot here.)
+<p align="center">
+  <img src="Screenshots/HR Analytical Dashboard.png" alt="HR Analytics Dashboard" width="1000">
+</p>
 
 ---
 
